@@ -1,0 +1,3 @@
+erkezes=[]
+orszagok=[]
+repulogepek=[]
