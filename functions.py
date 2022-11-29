@@ -12,3 +12,4 @@ def menu():
     print("5 - Fájlbetöltés")
     print("6 - Járat törlése")
     return input('Választás: ')
+
